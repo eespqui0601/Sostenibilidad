@@ -6,7 +6,7 @@
 [Sostenibilidad.pdf](https://github.com/user-attachments/files/22947128/Sostenibilidad.pdf)
 3. README original:
 
-#Introducción a la Sostenibilidad
+# Introducción a la Sostenibilidad
 -
 **Markdown** es un leguaje de marcas ligero que permite escribir documentos de manera sencilla y legible. Se utiliza mucha ya que es ligero, fácil de leer y se puede convertir a **PDF**, **HTML**,** Word** o una **página web**.
 
